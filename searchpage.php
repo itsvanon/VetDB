@@ -1,6 +1,5 @@
 <?php
 include("config.php");
-session_start();
 $error = "Patient not found";
 if(isset($_POST['searchip']))
 {

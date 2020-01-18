@@ -12,7 +12,7 @@
     <body>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700">
-      <form action="searchpage.php" class="search" method="post">
+      <form action="patientinfo.php" class="search" method="post">
         <div class="search__wrapper">
           <input type="text" placeholder="Search using Patient ID or Phone Number" class="search__field" name="searchip">
           <button type="submit" class="fa fa-search search__icon" name="searchbt"></button>
